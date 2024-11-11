@@ -12996,9 +12996,11 @@ header.style-3.four .nav-right .icon-list li:first-child svg {
     justify-content: space-between
 }
 
-.destination-card2-slider-section .destination-card2-slider .swiper-slide:nth-child(even) {
+
+
+/* .destination-card2-slider-section .destination-card2-slider .swiper-slide:nth-child(even) {
     margin-top: 20px
-}
+} */
 
 @media(max-width:576px) {
     .destination-card2-slider-section .destination-card2-slider .swiper-slide:nth-child(even) {
@@ -33695,3 +33697,13 @@ header.style-3.four .nav-right .icon-list li:first-child svg {
 .tour-facilites-section .nav-tabs .nav-item .nav-link.active svg {
     fill: var(--primary-color1)
 }
+
+/* new css add  */
+.form-select {
+    background-color: white;
+}
+
+.form-select:hover {
+    background-color: white;
+}
+/* new css add  */
